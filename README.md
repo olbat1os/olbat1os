@@ -27,5 +27,17 @@
 
 ## Связь
 
-Вы можете связаться со мной через [Telegram](https://t.me/krasivo_net).
+Вы можете связаться со мной через <div style="display: flex; gap: 10px;">
+    <a href="https://t.me/krasivo_net" style="text-decoration: none;">
+        <div style="background-color: #0088cc; color: white; padding: 10px; border-radius: 5px;">
+            TELEGRAM
+        </div>
+    </a>
+    <a href="mailto:efim_aleks2000@mail.ru" style="text-decoration: none;">
+        <div style="background-color: #d14836; color: white; padding: 10px; border-radius: 5px;">
+            MAIL
+        </div>
+    </a>
+</div>
+
 
