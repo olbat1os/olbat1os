@@ -34,7 +34,7 @@
             TELEGRAM
         </div>
     </a>
-    <a href="mailto:efim_aleks2000@mail.ru" style="text-decoration: none;">
+    <a href="mailto:your_email@mail.ru" style="text-decoration: none;">
         <div style="background-color: #d14836; color: white; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Mail.ru_logo.svg" alt="Mail.ru" style="width: 20px; height: 20px; margin-right: 5px;">
             GMAIL
