@@ -29,16 +29,10 @@
 
 Вы можете связаться со мной через <div style="display: flex; gap: 10px;">
     <a href="https://t.me/krasivo_net" style="text-decoration: none;">
-        <div style="background-color: #0088cc; color: white; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
-            <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" style="width: 20px; height: 20px; margin-right: 5px;">
-            TELEGRAM
-        </div>
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" style="width: 40px; height: 40px;">
     </a>
     <a href="mailto:your_email@mail.ru" style="text-decoration: none;">
-        <div style="background-color: #d14836; color: white; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
-            <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Mail.ru" style="width: 20px; height: 20px; margin-right: 5px;">
-            GMAIL
-        </div>
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Mail.ru" style="width: 40px; height: 40px;">
     </a>
 </div>
 
