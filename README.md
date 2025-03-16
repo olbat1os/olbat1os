@@ -29,13 +29,15 @@
 
 Вы можете связаться со мной через <div style="display: flex; gap: 10px;">
     <a href="https://t.me/krasivo_net" style="text-decoration: none;">
-        <div style="background-color: #0088cc; color: white; padding: 10px; border-radius: 5px;">
+        <div style="background-color: #0088cc; color: white; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Telegram_logo.svg" alt="Telegram" style="width: 20px; height: 20px; margin-right: 5px;">
             TELEGRAM
         </div>
     </a>
     <a href="mailto:efim_aleks2000@mail.ru" style="text-decoration: none;">
-        <div style="background-color: #d14836; color: white; padding: 10px; border-radius: 5px;">
-            MAIL
+        <div style="background-color: #d14836; color: white; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Mail.ru_logo.svg" alt="Mail.ru" style="width: 20px; height: 20px; margin-right: 5px;">
+            GMAIL
         </div>
     </a>
 </div>
