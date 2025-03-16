@@ -1,4 +1,6 @@
-Привет, я **olbat1os**
+<div style="text-align: center;">
+    <span style="font-size: 24px; font-weight: bold;">Привет, я olbat1os</span>
+</div>
 
 Я живу в России, люблю путешествовать и недавно получил высшее образование. 
 
