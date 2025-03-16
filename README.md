@@ -53,4 +53,11 @@
 Связь
 
 Вы можете связаться со мной через <div style="display: flex; gap: 10px;">
+    <a href="https://t.me/krasivo_net" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" style="width: 40px; height: 40px;">
+    </a>
+    <a href="mailto:efim_aleks2000@mail.ru" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Mail.ru" style="width: 40px; height: 40px;">
+    </a>
+</div>
 
