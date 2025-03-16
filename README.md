@@ -18,7 +18,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width: 40px; height: 40px; border-radius: 50%;">
     </a>
     <a href="https://www.djangoproject.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" style="width: 40px; height: 40px; border-radius: 50%;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" alt="Django" style="width: 40px; height: 40px; border-radius: 50%;">
     </a>
     <a href="https://www.postgresql.org" target="_blank">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width: 40px; height: 40px; border-radius: 50%;">
