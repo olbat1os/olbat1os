@@ -21,13 +21,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" style="width: 40px; height: 40px; border-radius: 50%;">
     </a>
     <a href="https://www.postgresql.org" target="_blank">
-       <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="PostgreSQL" style="width: 40px; height: 40px; border-radius: 50%;">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width: 40px; height: 40px; border-radius: 50%;">
     </a>
     <a href="https://git-scm.com" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" style="width: 40px; height: 40px; border-radius: 50%;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="width: 40px; height: 40px; border-radius: 50%;">
     </a>
     <a href="https://www.javascript.com" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="JavaScript" style="width: 40px; height: 40px; border-radius: 50%;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px; height: 40px; border-radius: 50%;">
     </a>
 </div>
 
