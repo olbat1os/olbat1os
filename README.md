@@ -15,13 +15,13 @@
 ## Навыки
 <div style="display: flex; gap: 10px; margin-top: 10px;">
     <a href="https://www.python.org" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Python" style="width: 40px; height: 40px; border-radius: 50%;">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" style="width: 40px; height: 40px; border-radius: 50%;">
     </a>
     <a href="https://www.djangoproject.com" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" alt="Django" style="width: 40px; height: 40px; border-radius: 50%;">
     </a>
     <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="PostgreSQL" style="width: 40px; height: 40px; border-radius: 50%;">
+       <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="PostgreSQL" style="width: 40px; height: 40px; border-radius: 50%;">
     </a>
     <a href="https://git-scm.com" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" style="width: 40px; height: 40px; border-radius: 50%;">
